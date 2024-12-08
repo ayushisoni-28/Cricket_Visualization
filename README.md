@@ -70,11 +70,11 @@ https://www.espncricinfo.com/
 
 **Collection Names:**
 
-player_name_odi
+- player_name_odi
 
-player_name_t20
+- player_name_t20
 
-player_name_test
+- player_name_test
 
 (Replace player_name with the cricketer's name, e.g., virat_odi, bumrah_t20)
 
@@ -82,23 +82,23 @@ player_name_test
 
 **Prerequisites**
 
-Python 3.7+
+- Python 3.7+
 
-Selenium
+- Selenium
 
-MongoDB
+- MongoDB
 
-Power BI or Tableau (Optional, for analysis)
+- Power BI or Tableau (Optional, for analysis)
 
 # Future Scope
 
-Automate data updates using scheduled scripts.
+- Automate data updates using scheduled scripts.
 
-Expand support for additional cricket statistics like fielding records.
+- Expand support for additional cricket statistics like fielding records.
 
-Integrate with advanced machine learning models for performance prediction.
+- Integrate with advanced machine learning models for performance prediction.
 
-Develop an interactive web dashboard for data visualization.
+- Develop an interactive web dashboard for data visualization.
 
 # Contributing
 Contributions are welcome!
