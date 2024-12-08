@@ -13,9 +13,9 @@ https://www.espncricinfo.com/
 
 **Data Analysis:** 
 
-Perform data analysis and visualizations using analytical tools like Power BI and Tableau.
+- Perform data analysis and visualizations using analytical tools like Power BI and Tableau.
 
-Compare player performances, analyze trends, and generate insights.
+- Compare player performances, analyze trends, and generate insights.
 
 **Data Scalability:** Extendable to fetch data for any cricketer in any format.
 
