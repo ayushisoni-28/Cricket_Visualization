@@ -4,7 +4,7 @@ This project involves fetching cricket statistics for batters and bowlers across
 
 **Source Link:**
 
-ESPNcricinfo - Virat Kohli Bowling & Batting Stats
+https://www.espncricinfo.com/
 
 # Features
 **Data Extraction:** Use Selenium to scrape cricket statistics from ESPNcricinfo for any cricketer.
