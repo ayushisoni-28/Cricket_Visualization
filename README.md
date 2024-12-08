@@ -62,7 +62,7 @@ Compare player performances, analyze trends, and generate insights.
 
 ## MongoDB Structure:
 
-**Database Name:** cricket_data
+**Database Name:** player_name_data
 
 **Collection Names:**
 
