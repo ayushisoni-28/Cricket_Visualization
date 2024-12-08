@@ -23,46 +23,46 @@ https://www.espncricinfo.com/
 
 ## Batter Data Fields:
 
-**Teams:** The teams the batter has played against.
+- **Teams:** The teams the batter has played against.
 
-**Span:** The career span of the batter in the format.
+- **Span:** The career span of the batter in the format.
 
-**Matches:** Number of matches played.
+- **Matches:** Number of matches played.
 
-**Innings:** Number of innings played.
+- **Innings:** Number of innings played.
 
-**NotOuts:** Times the batter remained not out.
+- **NotOuts:** Times the batter remained not out.
 
-**Runs:** Total runs scored.
+- **Runs:** Total runs scored.
 
-**HighestScore:** Highest score in a single inning.
+- **HighestScore:** Highest score in a single inning.
 
-**Average:** Batting average.
+- **Average:** Batting average.
 
-**StrikeRate:** Batting strike rate.
+- **StrikeRate:** Batting strike rate.
 
-**100s:** Number of centuries.
+- **100s:** Number of centuries.
 
-**50s:** Number of half-centuries.
+- **50s:** Number of half-centuries.
 
 
 ## Bowler Data Fields:
 
-**Teams:** The teams the bowler has bowled against.
+- **Teams:** The teams the bowler has bowled against.
 
-**Span:** The career span of the bowler in the format.
+- **Span:** The career span of the bowler in the format.
 
-**Matches:** Number of matches played.
+- **Matches:** Number of matches played.
 
-**Innings:** Number of innings bowled.
+- **Innings:** Number of innings bowled.
 
-**Wickets:** Total wickets taken.
+- **Wickets:** Total wickets taken.
 
-**Average:** Bowling average.
+- **Average:** Bowling average.
 
-**Economy:** Economy rate.
+- **Economy:** Economy rate.
 
-**StrikeRate:** Bowling strike rate.
+- **StrikeRate:** Bowling strike rate.
 
 ## MongoDB Structure:
 
